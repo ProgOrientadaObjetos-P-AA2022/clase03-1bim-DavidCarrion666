@@ -10,6 +10,7 @@ public class Hospital {
     private int numeroCamas;
     private double presupuesto;
     
+    
     // métodos establecer para cada atributo
     public void establecerNombre(String n){
         nombre = n;
